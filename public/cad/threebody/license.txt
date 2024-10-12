@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trisolaran droplet（三体水滴）
+* source:	https://sketchfab.com/3d-models/trisolaran-droplet-6c34b75fd350461499178ef0fe68eff8
+* author:	Kevin-F (https://sketchfab.com/Kevin-F)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trisolaran droplet（三体水滴）" (https://sketchfab.com/3d-models/trisolaran-droplet-6c34b75fd350461499178ef0fe68eff8) by Kevin-F (https://sketchfab.com/Kevin-F) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

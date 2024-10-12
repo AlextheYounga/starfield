@@ -1,0 +1,11 @@
+Model Information:
+* title:	STARSHIP MK1
+* source:	https://sketchfab.com/3d-models/starship-mk1-5a708af84ef440c6a91f96c2b8284cc4
+* author:	TAIGA-ZOE (https://sketchfab.com/TAIGA-ZOE)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "STARSHIP MK1" (https://sketchfab.com/3d-models/starship-mk1-5a708af84ef440c6a91f96c2b8284cc4) by TAIGA-ZOE (https://sketchfab.com/TAIGA-ZOE) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
