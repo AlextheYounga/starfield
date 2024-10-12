@@ -1,6 +1,7 @@
 # Starfield
 
 Working example on my website: [alextheyounger.me](https://alextheyounger.me/)
+I just wrapped this in Vue to make dealing with packages.
 
 ## Vue boilerplate
 This template should help get you started developing with Vue 3 in Vite.
